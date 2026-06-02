@@ -6,7 +6,7 @@ import './index.css'
    ══════════════════════════════════════════════════════════ */
 const CONFIG = {
   // Número com código do país + DDD + número (só dígitos)
-  whatsapp: '5521999999999',
+  whatsapp: '5521983271191',
 
   // Link da página de avaliação no Google Meu Negócio
   // Para obter: acesse seu perfil no Google Meu Negócio → Obter mais avaliações
@@ -25,7 +25,7 @@ const CONFIG = {
   gasbrasLogo: 'https://logowik.com/content/uploads/images/supergasbras6393.logowik.com.webp',
 }
 
-const WPP_MSG_PEDIDO  = encodeURIComponent('Olá! Gostaria de pedir um botijão de gás. 🔥')
+const WPP_MSG_PEDIDO  = encodeURIComponent('Olá! Vim pelo site, gostaria de saber mais sobre os serviços. 🔥')
 const WPP_MSG_RETIRADA = encodeURIComponent('Olá! Quero retirar na loja e aproveitar o desconto + brinde especial! 🎁')
 
 function wppLink(msg: string) {
