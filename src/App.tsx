@@ -529,7 +529,7 @@ function LocationSection() {
             <div>
               <span className="location-detail-label">WhatsApp</span>
               <p className="location-detail-value">
-                <strong>(21) 9 9999-9999</strong>
+                <strong>(21)98327-1191</strong>
                 Atendimento rápido e eficiente
               </p>
             </div>
@@ -591,7 +591,7 @@ function Footer() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              📱 (21) 9 9999-9999
+              📱 (21)98327-1191
             </a>
             <a href={CONFIG.instagram} target="_blank" rel="noopener noreferrer">
               📸 @nandagasltda
